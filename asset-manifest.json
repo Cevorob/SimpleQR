@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SimpleQR/static/css/main.837b9bec.css",
+    "main.js": "/SimpleQR/static/js/main.8c9e8963.js",
+    "static/js/787.25fad738.chunk.js": "/SimpleQR/static/js/787.25fad738.chunk.js",
+    "index.html": "/SimpleQR/index.html",
+    "main.837b9bec.css.map": "/SimpleQR/static/css/main.837b9bec.css.map",
+    "main.8c9e8963.js.map": "/SimpleQR/static/js/main.8c9e8963.js.map",
+    "787.25fad738.chunk.js.map": "/SimpleQR/static/js/787.25fad738.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.837b9bec.css",
+    "static/js/main.8c9e8963.js"
+  ]
+}
